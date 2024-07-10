@@ -7,3 +7,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGeumgangMunjaHalmaeche/OngleapGeumgangMunjaHalmaeche.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapGeumgangMunjaHalmaeche {
+    font-family: "OngleapGeumgangMunjaHalmaeche";
+}
