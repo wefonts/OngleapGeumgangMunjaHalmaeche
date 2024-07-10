@@ -9,5 +9,9 @@
     font-display: swap;
 }
 
+.OngleapGeumgangMunjaHalmaeche {
+    font-family: "OngleapGeumgangMunjaHalmaeche";
+}
+
   
 </pre>
